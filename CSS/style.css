@@ -3,9 +3,9 @@
 
 body {
 	font-family: 'family=Oswald', cursive;
-	color: #e5e5e5;
+	color: #green;
 	font-size: 12px;
-	background:#bfbfbf;
+	background:#bfbfbf; 
 
 
 }
@@ -19,7 +19,7 @@ h1, h2 {
 
 
 h1 {
-	font-size: 36px;
+	font-size: 40px;
 	letter-spacing: -1px;
 	line-height: 100%;
 }
